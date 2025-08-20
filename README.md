@@ -24,4 +24,3 @@ git clone https://github.com/yourusername/srm-humanoid-assistant
 cd srm-humanoid-assistant
 pip install -r requirements.txt
 python main.py
-
