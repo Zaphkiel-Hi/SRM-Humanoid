@@ -16,7 +16,7 @@ A smart humanoid interface developed for SRM faculty to help with administrative
 
 🧩 Features:
 - Speech-to-text and face-based identity recognition
-- Natural conversation handling
+- Natural conversation handling 
 - Integrates academic calendar, faculty tasks, and custom automation
 
 🏁 How to Run (Dev Mode):
