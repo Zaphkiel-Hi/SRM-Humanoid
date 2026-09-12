@@ -8,7 +8,7 @@ Coupled with the Quiz Buddy testing platform, which evaluates students' understa
 🧠 Description:
 A smart humanoid interface developed for SRM faculty to help with administrative and academic assistance. Currently in alpha deployment with ~50 professors.
 
-🔧 Tech Stack:
+🔧 Tech Stack: 
 - Python (Rasa, OpenCV)
 - Hardware: Raspberry Pi + Arduino + Sensors 
 - NLP, Voice Recognition, Face Recognition
