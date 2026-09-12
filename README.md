@@ -1,4 +1,4 @@
-# SRM Humanoid Assistant
+ # SRM Humanoid Assistant
 The Humanoid Professor Learning Platform is an innovative AI-driven system designed to make learning computer science subjects engaging and interactive. Initially focusing on Data Structures, the platform combines advanced language models like Claude with state-of-the-art Speech-to-Text and Text-to-Speech capabilities to create a seamless learning experience.
 
 The learning platform offers dynamic, conversational teaching sessions, allowing students to explore complex concepts in an intuitive, question-and-answer format. It supports multiple learning styles by enabling voice-based interactions alongside text-based explanations, making it accessible to a diverse range of users.
@@ -13,7 +13,7 @@ A smart humanoid interface developed for SRM faculty to help with administrative
 - Hardware: Raspberry Pi + Arduino + Sensors 
 - NLP, Voice Recognition, Face Recognition
 - SQLite for local data persistence
-
+ 
 🧩 Features:
 - Speech-to-text and face-based identity recognition
 - Natural conversation handling 
