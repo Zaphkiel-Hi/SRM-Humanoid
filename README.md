@@ -13,7 +13,7 @@ A smart humanoid interface developed for SRM faculty to help with administrative
 - Hardware: Raspberry Pi + Arduino + Sensors 
 - NLP, Voice Recognition, Face Recognition
 - SQLite for local data persistence
- 
+  
 🧩 Features:
 - Speech-to-text and face-based identity recognition
 - Natural conversation handling 
