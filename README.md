@@ -10,7 +10,7 @@ A smart humanoid interface developed for SRM faculty to help with administrative
 
 🔧 Tech Stack:
 - Python (Rasa, OpenCV)
-- Hardware: Raspberry Pi + Arduino + Sensors
+- Hardware: Raspberry Pi + Arduino + Sensors 
 - NLP, Voice Recognition, Face Recognition
 - SQLite for local data persistence
 
